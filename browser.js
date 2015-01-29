@@ -1,5 +1,4 @@
 var $ = require('jquery');
-var ready = require('domready');
 var Backbone = require('backbone');
 var _ = require('underscore');
 window.jade = require('jade/runtime');
