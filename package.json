@@ -23,6 +23,7 @@
   "dependencies": {
     "backbone": "^1.1.2",
     "browserify": "^8.1.1",
+    "domready": "^1.0.7",
     "express": "^4.11.1",
     "jade": "^1.9.1",
     "jquery": "^2.1.3",
